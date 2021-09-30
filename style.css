@@ -1,0 +1,46 @@
+.PLAY{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px; 
+}
+.NOTE{
+    font-size: 15px;
+    color: blueviolet;
+}
+.div_speed{
+    float: left;
+}
+.div_speed_image{
+    width: 200px;
+    border-radius: 100%;
+}
+#Speed{
+    font-size: 25px;
+    margin: 15px;
+
+}
+.div_volume{
+    float: right;
+}
+.div_volume_image{
+    width: 200px;
+    border-radius: 100%;
+}
+#Volume{
+    font-size: 25px;
+    margin: 15px;
+    
+}
+canvas{
+    border-radius: 20px;
+border: 5px solid navy;
+
+}
+.Play_button, .Stop_button {
+    width: 130px ;
+    font-size: 25px ;
+}
+canvas{
+    border: 5px solid gold;
+    border-radius:20px yellow ;
+}
